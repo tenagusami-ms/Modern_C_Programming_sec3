@@ -3,4 +3,4 @@ project(Modern_C_Programming_sec3 C)
 
 set(CMAKE_C_STANDARD 11)
 
-add_executable(Modern_C_Programming_sec3 main.c)
+add_executable(stack main.c stack.h stack.c)
